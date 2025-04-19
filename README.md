@@ -65,7 +65,7 @@ This project demonstrates a basic setup of Graphql which includes:
    yarn dev
    ```
 
-4. Open [http://localhost:5173] for client and (http://localhost:4000) for graphql server in your browser.
+4. Open (http://localhost:5173) for client and (http://localhost:4000) for graphql server in your browser.
 
 ---
 
